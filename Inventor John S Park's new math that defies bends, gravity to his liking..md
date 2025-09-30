@@ -2,7 +2,7 @@
 
 
 
-**Inventor John S Park's new math that defies bends, gravity to his liking.**
+**Inventor John S Park's new math that defies bends, gravity to his liking.**  well explains how anyway.
 
 
 
@@ -8411,4 +8411,5 @@ This book stands as a full, rigorous, and selfcontained exposition of the new ph
 
 
 Please confirm if you would like me to provide the full compiled manuscript or any additional material.
+
 
