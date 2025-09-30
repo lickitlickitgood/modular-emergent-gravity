@@ -3,8 +3,6 @@ Modular Emergent Gravity and Quantum Collapse Theory (MEGQCT): Book Structure an
 
 The Modular Emergent Gravity and Quantum Collapse Theory (MEGQCT) unifies operator algebra, modular flows, quantum collapse, and emergent gravity. Structured in four quarters, the book covers foundational mathematics, modular dynamics, stochastic collapse, computational models, quantum error correction, experimental implications, topological extensions, and future directions. Rigorous proofs, detailed simulations, and experimental protocols are provided for advancing quantum technology and empirical validation.
 
-podcast link: https://cdn.notegpt.io/notegpt/web3in1/podcast/podcast_0f6f5986-c393-4151-b71f-fac223d6681b-1759268268.mp3
-
 
 1. How Modular Physics Unites Gravity and Quantum Theory
 
